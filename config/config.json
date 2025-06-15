@@ -1,0 +1,23 @@
+{
+  "topics": ["steel", "green", "carbon", "tata", "jsw", "hydrogen", "sustainability", "decarbonization", "scrap", "energy", "electric arc", "hydrogen steel", "project", "plant"],
+  "rss_feeds": [
+    "https://www.steelguru.com/rss-feed",
+    "https://www.business-standard.com/rss/companies-101.xml"
+  ],
+  "google_news_queries": [
+    "green steel",
+    "hydrogen steel",
+    "tata steel",
+    "carbon neutral steel"
+  ],
+  "tenders_sources": [
+    "https://tenders.gov.in/",
+    "https://gem.gov.in/"
+  ],
+  "events_sources": [
+    "https://10times.com/steel"
+  ],
+  "podcasts_sources": [
+    "https://rss.art19.com/the-steel-podcast"
+  ]
+}
